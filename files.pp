@@ -46,6 +46,7 @@ file { '/etc/nginx/ssl/server.info':
   owner    => 'root',
   group    => 'root',
 }
+#test
 
 }
 
